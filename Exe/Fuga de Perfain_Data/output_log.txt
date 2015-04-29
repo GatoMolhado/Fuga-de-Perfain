@@ -1,0 +1,59 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA GeForce GTS 250 (ID=0x615)
+    Vendor:   NVIDIA
+    VRAM:     999 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\hiago\Desktop\Fuga de Perfain\Exe\Fuga de Perfain_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\hiago\Desktop\Fuga de Perfain\Exe\Fuga de Perfain_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\hiago\Desktop\Fuga de Perfain\Exe\Fuga de Perfain_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\hiago\Desktop\Fuga de Perfain\Exe\Fuga de Perfain_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\hiago\Desktop\Fuga de Perfain\Exe\Fuga de Perfain_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\hiago\Desktop\Fuga de Perfain\Exe\Fuga de Perfain_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\hiago\Desktop\Fuga de Perfain\Exe\Fuga de Perfain_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\hiago\Desktop\Fuga de Perfain\Exe\Fuga de Perfain_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.111 seconds
+desktop: 1440x900 60Hz; virtual: 3360x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\hiago\Desktop\Fuga de Perfain\Exe\Fuga de Perfain_Data\Managed\System.Core.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1484 -> priority: 1 
+Platform assembly: C:\Users\hiago\Desktop\Fuga de Perfain\Exe\Fuga de Perfain_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.924440 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 233.
+Total: 0.630040 ms (FindLiveObjects: 0.055800 ms CreateObjectMapping: 0.030600 ms MarkObjects: 0.202760 ms  DeleteObjects: 0.336120 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.197240 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3636.
+Total: 2.047640 ms (FindLiveObjects: 0.496040 ms CreateObjectMapping: 0.192200 ms MarkObjects: 1.321760 ms  DeleteObjects: 0.032800 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.654080 ms
+
+Unloading 227 unused Assets to reduce memory usage. Loaded Objects now: 263.
+Total: 0.720160 ms (FindLiveObjects: 0.065000 ms CreateObjectMapping: 0.043600 ms MarkObjects: 0.282360 ms  DeleteObjects: 0.323640 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.461040 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 0.475720 ms (FindLiveObjects: 0.071080 ms CreateObjectMapping: 0.030880 ms MarkObjects: 0.344440 ms  DeleteObjects: 0.023680 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.719480 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 412.
+Total: 0.847200 ms (FindLiveObjects: 0.059320 ms CreateObjectMapping: 0.035800 ms MarkObjects: 0.632880 ms  DeleteObjects: 0.114200 ms)
+
